@@ -16,11 +16,13 @@ html,body{
 }
  
 #intro{
-  height: 400px;
+  height: 40%;
   width: 100%;
   background-color:  bisque;
 }
 
 #intro h1{
   font-size: 120px;
+  line-height: 100px;
+  padding:40px;
 }
