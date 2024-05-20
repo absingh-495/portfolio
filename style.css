@@ -22,14 +22,15 @@ html,body{
 }
 
 #intro h1{
-  font-size: 120px;
-  line-height: 100px;
-  padding:40px;
+  font-size: 150px;
+  line-height: 120px;
+  padding:50px 60px;
+  letter-spacing: ;
 }
 
 #place{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 40px;
+  padding: 0 50px;
 }
