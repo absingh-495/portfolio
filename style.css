@@ -76,11 +76,11 @@ html,body{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* padding: 30px; */
+  /* padding: 30px 60px; */
 }
 
 #about h2{
-  /* background-color: red; */
+  background-color: red;
   width: 70%;
   font-size: 80px;
   /* padding:0px; */
@@ -88,7 +88,13 @@ html,body{
 }
 
 #about-part-2{
-  width: 36%;
+  margin-top: 3%;
+  width: 26%;
   height: 100%;
-  /* background-color: blue; */
+  background-color: blue;
+}
+
+#icons{
+  justify-content: botto;
+   
 }
