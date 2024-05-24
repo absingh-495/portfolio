@@ -80,7 +80,7 @@ html,body{
 }
 
 #about h2{
-  background-color: red;
+  /* background-color: red; */
   width: 70%;
   font-size: 80px;
   /* padding:0px; */
@@ -90,5 +90,5 @@ html,body{
 #about-part-2{
   width: 36%;
   height: 100%;
-  background-color: blue;
+  /* background-color: blue; */
 }
