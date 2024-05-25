@@ -94,14 +94,14 @@ html,body{
   margin-top: 3%;
   width: 26%;
   height: 100%;
-  /* background-color: blue; */
+  background-color: blue;
 }
 
-/* #about-part-2{
+#about-part-2{
   padding-left: 20px;
   width: 35%;
   height: 100%;
   border-left: 2px solid black;
-} */
+}
 
  
